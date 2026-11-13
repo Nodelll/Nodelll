@@ -46,7 +46,6 @@ Away from the code editor, I'm into **music production, sound design, and audio 
 
 Также увлекаюсь созданием музыки, саунд-дизайном и звукорежиссурой. Мой открытый проект **[Display Model Optimizer](https://github.com/Nodelll/display-model-optimizer)** помогает уменьшать лишнюю работу при отрисовке `item_display` и `block_display`.
 
-Связаться со мной можно в [Telegram](https://t.me/nodelll).
 
 </details>
 
