@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="356" viewBox="0 0 1200 356" role="img" aria-labelledby="title desc">
+  <title id="title">Nodelll — code, sound and curiosity</title>
+  <desc id="desc">Dark indigo profile banner with glowing violet and cyan accents, Nodelll title, and geometric N monogram</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1021"/>
+      <stop offset=".55" stop-color="#10142C"/>
+      <stop offset="1" stop-color="#111E35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#AA87FF"/>
+      <stop offset=".51" stop-color="#777AFF"/>
+      <stop offset="1" stop-color="#55E4D9"/>
+    </linearGradient>
+    <linearGradient id="monogram" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C5A3FF"/>
+      <stop offset=".55" stop-color="#8179FF"/>
+      <stop offset="1" stop-color="#5CE4D9"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#7665E9" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#7665E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#D9D8FF" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded"><rect x="1" y="1" width="1198" height="354" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="356" fill="url(#background)"/>
+    <rect width="1200" height="356" fill="url(#grid)"/>
+    <ellipse cx="1025" cy="132" rx="310" ry="260" fill="url(#glow)"/>
+    <circle cx="923" cy="177" r="151" fill="none" stroke="#9E9AFF" stroke-opacity=".12" stroke-width="1.3"/>
+    <circle cx="923" cy="177" r="117" fill="none" stroke="#9E9AFF" stroke-opacity=".18" stroke-width="1.3"/>
+    <circle cx="923" cy="177" r="82" fill="none" stroke="#9E9AFF" stroke-opacity=".13" stroke-width="1.3"/>
+    <path d="M 801 55 L 1109 298" stroke="#68D7DE" stroke-opacity=".13" stroke-width="1"/>
+    <path d="M 1073 52 L 782 303" stroke="#9E7AFF" stroke-opacity=".12" stroke-width="1"/>
+    <circle cx="1029" cy="67" r="4" fill="#63E5DC"/>
+    <circle cx="809" cy="273" r="3" fill="#B292FF"/>
+    <rect x="62" y="48" width="8" height="8" rx="2" fill="#69E8DF"/>
+    <text x="84" y="56" fill="#A8B4D4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="3">WELCOME TO MY CORNER OF GITHUB</text>
+    <text x="60" y="175" fill="#F5F4FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="102" font-weight="800" letter-spacing="-5">Nodelll</text>
+    <rect x="62" y="196" width="300" height="4" rx="2" fill="url(#accent)"/>
+    <text x="60" y="242" fill="#D9DDF5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing=".3">Code, sound &amp; curiosity.</text>
+    <text x="62" y="298" fill="#8997BD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2.1">MODDING  /  PERFORMANCE  /  AUDIO</text>
+    <path d="M 868 232 V 122 L 982 232 V 122" fill="none" stroke="url(#monogram)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1106" y="319" fill="#8997BD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2.2" text-anchor="end">EST. IN CURIOSITY</text>
+    <rect x="1" y="1" width="1198" height="354" rx="24" fill="none" stroke="#9BA5E1" stroke-opacity=".22" stroke-width="2"/>
+  </g>
+</svg>
