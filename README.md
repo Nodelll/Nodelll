@@ -3,7 +3,6 @@
 
   <br />
 
-  <a href="https://t.me/nodelll"><img src="https://img.shields.io/badge/Telegram-@nodelll-25A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @nodelll" /></a>
   <a href="https://github.com/Nodelll?tab=repositories"><img src="https://img.shields.io/badge/Explore-my%20projects-8C78F8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" /></a>
 </div>
 
