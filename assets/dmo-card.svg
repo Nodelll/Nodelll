@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="263" viewBox="0 0 1200 263" role="img" aria-labelledby="title desc">
+  <title id="title">Display Model Optimizer — featured project</title>
+  <desc id="desc">Dark card for the Fabric client-side mod, featuring cache and culling optimization</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151A32"/>
+      <stop offset="1" stop-color="#0C192A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#AB8AFF"/>
+      <stop offset="1" stop-color="#64E2DA"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect x="1" y="1" width="1198" height="261" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="263" fill="url(#bg)"/>
+    <rect x="36" y="35" width="104" height="104" rx="22" fill="#222746" stroke="#756FC5" stroke-opacity=".55"/>
+    <path d="M 88 49 L 121 68 L 121 107 L 88 127 L 54 107 L 54 68 Z" fill="none" stroke="url(#accent)" stroke-width="4.5" stroke-linejoin="round"/>
+    <path d="M 54 68 L 88 88 L 121 68 M 88 88 L 88 127" fill="none" stroke="#C3B2FF" stroke-width="3" stroke-linejoin="round"/>
+    <text x="163" y="60" fill="#9DA9CC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2.4">FEATURED OPEN-SOURCE PROJECT</text>
+    <text x="162" y="113" fill="#F4F5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="750" letter-spacing="-.6">Display Model Optimizer</text>
+    <text x="163" y="147" fill="#B2BDDC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">Rendering optimizations for Minecraft display entities.</text>
+    <rect x="163" y="178" width="167" height="36" rx="18" fill="#2E2855" stroke="#7965B5" stroke-opacity=".6"/>
+    <text x="246" y="201" fill="#D2BFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" text-anchor="middle">Model caching</text>
+    <rect x="343" y="178" width="152" height="36" rx="18" fill="#1F3B49" stroke="#4A94A5" stroke-opacity=".6"/>
+    <text x="419" y="201" fill="#9FE8E3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" text-anchor="middle">Smart culling</text>
+    <rect x="508" y="178" width="160" height="36" rx="18" fill="#26334B" stroke="#5A7CAC" stroke-opacity=".6"/>
+    <text x="588" y="201" fill="#B9D2FB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" text-anchor="middle">Fabric / Java</text>
+    <path d="M 1000 0 V 263 M 1041 0 V 263 M 1082 0 V 263 M 1123 0 V 263 M 1164 0 V 263" stroke="#8D91CC" stroke-opacity=".05"/>
+    <circle cx="1035" cy="130" r="92" fill="none" stroke="#8475DE" stroke-opacity=".23"/>
+    <circle cx="1035" cy="130" r="66" fill="none" stroke="#5EDDD9" stroke-opacity=".19"/>
+    <path d="M 1007 132 L 1026 151 L 1064 111" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1040" y="233" fill="#97A5C5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="1" text-anchor="middle">VIEW PROJECT  →</text>
+    <rect x="1" y="1" width="1198" height="261" rx="22" fill="none" stroke="#9BA5E1" stroke-opacity=".25" stroke-width="2"/>
+  </g>
+</svg>
